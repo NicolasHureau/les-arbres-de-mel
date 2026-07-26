@@ -17,10 +17,7 @@ collections:
     create: true
     delete: true
 
-    slug:
-      encoding: "ascii"
-      clean_accents: true
-      sanitize_replacement: "-"
+    slug: "{{slug}}"
 
     extension: "json"
     format: "json"
@@ -28,8 +25,7 @@ collections:
     fields:
       - label: "Slug"
         name: "slug"
-        widget: "hidden"
-        default: ""
+        widget: "string"
 
       - label: "Titre"
         name: "title"
@@ -51,7 +47,6 @@ collections:
         options:
           - label: "Disponible"
             value: "available"
-
           - label: "Vendu"
             value: "sold"
 
@@ -83,7 +78,6 @@ collections:
         file: "src/data/site.json"
 
         fields:
-
           - label: "Nom du site"
             name: "name"
             widget: "string"
@@ -130,7 +124,6 @@ collections:
             summary: "{{fields.name}}"
 
             fields:
-
               - label: "Nom"
                 name: "name"
                 widget: "string"
