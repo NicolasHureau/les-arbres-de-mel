@@ -1,0 +1,146 @@
+backend:
+  name: git-gateway
+  branch: main
+
+locale: fr
+
+media_folder: "public/images/creations"
+public_folder: "/images/creations"
+
+collections:
+  - name: "creations"
+    label: "Créations"
+    label_singular: "Création"
+
+    folder: "src/data/creations"
+
+    create: true
+    delete: true
+
+    slug:
+      encoding: "ascii"
+      clean_accents: true
+      sanitize_replacement: "-"
+
+    extension: "json"
+    format: "json"
+
+    fields:
+      - label: "Slug"
+        name: "slug"
+        widget: "hidden"
+        default: ""
+
+      - label: "Titre"
+        name: "title"
+        widget: "string"
+
+      - label: "Description"
+        name: "description"
+        widget: "text"
+
+      - label: "Prix"
+        name: "price"
+        widget: "number"
+        value_type: "float"
+        min: 0
+
+      - label: "Statut"
+        name: "status"
+        widget: "select"
+        options:
+          - label: "Disponible"
+            value: "available"
+
+          - label: "Vendu"
+            value: "sold"
+
+      - label: "Commandable"
+        name: "canOrder"
+        widget: "boolean"
+        default: true
+
+      - label: "Mise en avant"
+        name: "featured"
+        widget: "boolean"
+        default: false
+
+      - label: "Photo"
+        name: "image"
+        widget: "image"
+
+      - label: "Catégorie"
+        name: "category"
+        widget: "string"
+        default: "Arbres"
+
+  - name: "site"
+    label: "Informations du site"
+
+    files:
+      - label: "Configuration"
+        name: "site"
+        file: "src/data/site.json"
+
+        fields:
+
+          - label: "Nom du site"
+            name: "name"
+            widget: "string"
+
+          - label: "Logo"
+            name: "logo"
+            widget: "image"
+            required: false
+
+          - label: "Slogan"
+            name: "tagline"
+            widget: "string"
+
+          - label: "Description"
+            name: "description"
+            widget: "markdown"
+
+          - label: "Email"
+            name: "email"
+            widget: "string"
+
+          - label: "Ville"
+            name: "location"
+            widget: "string"
+
+          - label: "Réseaux sociaux"
+            name: "socials"
+            widget: "object"
+
+            fields:
+              - label: "Instagram"
+                name: "instagram"
+                widget: "string"
+                required: false
+
+              - label: "Facebook"
+                name: "facebook"
+                widget: "string"
+                required: false
+
+          - label: "Partenaires"
+            name: "partners"
+            widget: "list"
+            summary: "{{fields.name}}"
+
+            fields:
+
+              - label: "Nom"
+                name: "name"
+                widget: "string"
+
+              - label: "Site internet"
+                name: "url"
+                widget: "string"
+                required: false
+
+              - label: "Description"
+                name: "description"
+                widget: "text"
+                required: false
