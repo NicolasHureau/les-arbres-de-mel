@@ -1,0 +1,11 @@
+{
+  "price": 500,
+  "slug": "goldyearstree",
+  "featured": false,
+  "status": "available",
+  "title": "Goldy ear's tree",
+  "image": "/images/creations/mapremierepairedeboucledoreille.jpeg",
+  "description": "ma première boucle d'oreille",
+  "category": "Boucle d'oreille",
+  "canOrder": true
+}
