@@ -1,0 +1,11 @@
+{
+  "slug": "arbre-jaune",
+  "title": "Arbre d'automne",
+  "description": "Perles et pierres jaune, orange et rose",
+  "price": 45,
+  "status": "available",
+  "canOrder": true,
+  "featured": true,
+  "image": "/images/creations/PARJCext.webp",
+  "category": "Arbres"
+}

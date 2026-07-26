@@ -1,15 +1,13 @@
 /**
  * Creation
  *
- * id:number
+ * slug:string
  * title:string
  * description:string
  * price:number
- * status: "available" | "sold"
+ * status:"available"|"sold"
  * canOrder:boolean
+ * featured:boolean
  * image:string
- * categories:string
- * createdAt:Date
- * updatedAt:Date
- *
+ * category:string
  */

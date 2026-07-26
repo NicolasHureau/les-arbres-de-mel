@@ -1,0 +1,11 @@
+{
+  "slug": "arbre-violet",
+  "title": "Arbre d'hiver",
+  "description": "Perles et pierres violette, mauve et rose",
+  "price": 60,
+  "status": "sold",
+  "canOrder": false,
+  "featured": false,
+  "image": "/images/creations/PAVioletCext.webp",
+  "category": "Arbres"
+}
