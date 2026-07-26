@@ -1,0 +1,19 @@
+{
+  "name": "Les Arbres de Mél",
+  "tagline": "Créations artisanales uniques façonnées à la main",
+  "description": "Des pièces uniques ou personnalisables, réalisées avec passion et savoir-faire artisanal.",
+
+  "email": "lesarbresdemel@example.com",
+
+  "boutique": {
+    "name": "La Grande Louve",
+    "url": "https://www.lagrandelouve.fr"
+  },
+
+  "location": "Annecy",
+
+  "socials": {
+    "instagram": "",
+    "facebook": ""
+  }
+}
