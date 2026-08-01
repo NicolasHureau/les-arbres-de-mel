@@ -1,6 +1,6 @@
 <template>
   <section class="text-center py-24 bg-cream">
-    <h1 class="text-5xl font-semibold text-forest tracking-wide">
+    <h1 class="text-6xl md:text-8xl text-emerald">
       Les Arbres de Mél
     </h1>
 

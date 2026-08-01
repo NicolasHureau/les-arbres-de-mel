@@ -1,9 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;600;700&display=swap');
 @import "tailwindcss";
 @plugin "daisyui";
 
+@theme {
+    --color-cream: #f5f1e6;
+    --color-earth: #5a4632;
+
+    --color-sage: #a8c5a0;
+    --color-emerald: #3f7655;
+    --color-forest: #315b43;
+
+    --font-display: "Dancing Script", cursive;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
 body {
-    background-color: #f5f1e6;
-    color: #5a4632;
+    background-color: var(--color-cream);
+    color: var(--color-earth);
+    margin: 0;
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--font-display);
+    font-weight: 600;
 }
 
 /*:root {*/

@@ -2,7 +2,7 @@
   <section class="max-w-4xl mx-auto px-4 py-16">
 
     <header class="text-center mb-12">
-      <h2 class="text-4xl font-bold text-forest mb-4">
+      <h2 class="text-5xl md:text-6xl text-emerald">
         L'univers des Arbres de Mél
       </h2>
 
