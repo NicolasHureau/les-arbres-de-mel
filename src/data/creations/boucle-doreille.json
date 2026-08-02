@@ -1,0 +1,14 @@
+{
+  "price": 20,
+  "slug": "boucle-doreille",
+  "featured": false,
+  "status": "available",
+  "title": "Boucle d'oreille",
+  "images": [
+    "/images/creations/mapremierepairedeboucledoreille.jpeg",
+    "/images/creations/mapremierepairedeboucledoreille.jpeg"
+  ],
+  "description": "blabla",
+  "category": "Bijoux",
+  "canOrder": true
+}
