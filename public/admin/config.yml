@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: "NicolasHureau/les-arbres-de-mel"
   branch: main
+  base_url: "https://les-arbres-de-mel-cms-auth.hureaun.workers.dev"
+  auth_endpoint: "auth"
 
 locale: fr
 
