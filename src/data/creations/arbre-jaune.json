@@ -7,5 +7,10 @@
   "canOrder": true,
   "featured": true,
   "image": "/images/creations/PARJCext.webp",
+  "images": [
+    "/images/creations/PARJCext.webp",
+    "/images/creations/PARJCext.webp",
+    "/images/creations/PARJCext.webp"
+  ],
   "category": "Arbres"
 }

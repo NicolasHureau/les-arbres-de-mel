@@ -23,7 +23,7 @@ function closeMenu() {
             href="/"
             @click="closeMenu"
             class="text-2xl md:text-3xl text-emerald
-                 font-semibold"
+                 font-semibold font-display"
         >
           {{ site.name }}
         </a>

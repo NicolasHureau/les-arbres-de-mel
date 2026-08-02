@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Griffy&display=swap');
 @import "tailwindcss";
 @plugin "daisyui";
 
@@ -10,7 +10,7 @@
     --color-emerald: #3f7655;
     --color-forest: #315b43;
 
-    --font-display: "Dancing Script", cursive;
+    --font-display: "Griffy", system-ui;
 }
 
 html {

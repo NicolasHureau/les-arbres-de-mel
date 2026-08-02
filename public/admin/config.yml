@@ -60,9 +60,13 @@ collections:
         widget: "boolean"
         default: false
 
-      - label: "Photo"
-        name: "image"
-        widget: "image"
+      - label: "Photos"
+        name: "images"
+        widget: "list"
+        field:
+          label: "Photo"
+          name: "image"
+          widget: "image"
 
       - label: "Catégorie"
         name: "category"

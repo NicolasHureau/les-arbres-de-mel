@@ -8,10 +8,5 @@
       Créations artisanales en fil de cuivre, pierres naturelles et bois.
     </p>
 
-    <div class="mt-6">
-      <a href="#gallery" class="btn btn-primary">
-        Voir les créations
-      </a>
-    </div>
   </section>
 </template>
