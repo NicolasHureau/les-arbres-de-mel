@@ -70,8 +70,19 @@ collections:
 
       - label: "Catégorie"
         name: "category"
-        widget: "string"
-        default: "Arbres"
+        widget: "select"
+        options:
+          - label: "Arbres"
+            value: "arbres"
+
+          - label: "Bijoux"
+            value: "bijoux"
+
+          - label: "Jardins"
+            value: "jardins"
+
+          - label: "Autres"
+            value: "autres"
 
   - name: "site"
     label: "Informations du site"
@@ -82,6 +93,7 @@ collections:
         file: "src/data/site.json"
 
         fields:
+
           - label: "Nom du site"
             name: "name"
             widget: "string"
@@ -107,11 +119,68 @@ collections:
             name: "location"
             widget: "string"
 
+          # -------------------------
+          # ARTISTE
+          # -------------------------
+
+          - label: "Présentation de l'artiste"
+            name: "about"
+            widget: "object"
+
+            fields:
+
+              - label: "Titre"
+                name: "title"
+                widget: "string"
+                default: "L'artiste"
+
+              - label: "Présentation"
+                name: "text"
+                widget: "markdown"
+
+              - label: "Photo"
+                name: "photo"
+                widget: "image"
+                required: false
+
+          # -------------------------
+          # ATELIER
+          # -------------------------
+
+          - label: "Atelier"
+            name: "workshop"
+            widget: "object"
+
+            fields:
+
+              - label: "Titre"
+                name: "title"
+                widget: "string"
+                default: "Mon atelier"
+
+              - label: "Présentation"
+                name: "text"
+                widget: "markdown"
+
+              - label: "Photos"
+                name: "images"
+                widget: "list"
+
+                field:
+                  label: "Photo"
+                  name: "image"
+                  widget: "image"
+
+          # -------------------------
+          # RÉSEAUX SOCIAUX
+          # -------------------------
+
           - label: "Réseaux sociaux"
             name: "socials"
             widget: "object"
 
             fields:
+
               - label: "Instagram"
                 name: "instagram"
                 widget: "string"
@@ -122,12 +191,18 @@ collections:
                 widget: "string"
                 required: false
 
+          # -------------------------
+          # PARTENAIRES
+          # -------------------------
+
           - label: "Partenaires"
             name: "partners"
             widget: "list"
+
             summary: "{{fields.name}}"
 
             fields:
+
               - label: "Nom"
                 name: "name"
                 widget: "string"

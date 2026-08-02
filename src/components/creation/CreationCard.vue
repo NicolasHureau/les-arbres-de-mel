@@ -1,8 +1,22 @@
 <script setup>
-import StatusBadge from "../ui/StatusBadge.vue";
+import { computed } from 'vue'
 import { RouterLink } from 'vue-router'
+import StatusBadge from '../ui/StatusBadge.vue'
 
-defineProps(['creation'])
+const props = defineProps({
+  creation: {
+    type: Object,
+    required: true
+  }
+})
+
+const firstImage = computed(() => {
+  if (props.creation.images?.length) {
+    return props.creation.images[0]
+  }
+
+  return props.creation.image
+})
 </script>
 
 <template>
@@ -17,7 +31,7 @@ defineProps(['creation'])
     <!-- Image -->
     <div class="aspect-[3/4] bg-sage/10 flex items-center justify-center">
       <img
-          :src="creation.image"
+          :src="firstImage"
           :alt="creation.title"
           class="w-full h-full object-cover transition-transform duration-500
                group-hover:scale-[1.02]"

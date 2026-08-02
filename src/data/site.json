@@ -16,8 +16,26 @@
   "partners": [
     {
       "name": "La Grande Louve",
-      "url": "https://www.lagrandelouve.fr",
+      "url": "https://share.google/K6mNaEbZg8rrJ1tSt",
       "description": "Boutique de créateurs où retrouver les créations de Mélanie."
     }
-  ]
+  ],
+
+  "about": {
+    "title": "L'artiste",
+    "text": "...",
+    "photo": "/images/about/melanie.webp"
+  },
+
+  "workshop": {
+    "title": "Mon atelier",
+    "text": "...",
+    "images": [
+      "/images/workshop/atelier-1.webp",
+      "/images/workshop/atelier-2.webp",
+      "/images/workshop/atelier-3.webp",
+      "/images/workshop/atelier-4.webp",
+      "/images/workshop/atelier-5.webp"
+    ]
+  }
 }
