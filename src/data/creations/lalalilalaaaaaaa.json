@@ -1,0 +1,13 @@
+{
+  "price": 500,
+  "slug": "lalalilala",
+  "featured": true,
+  "status": "sold",
+  "title": "Lalalilalaaaaaaa",
+  "images": [
+    "/images/creations/spacehulk_deathwing-01.webp"
+  ],
+  "description": "blabla... bla",
+  "category": "autres",
+  "canOrder": true
+}
