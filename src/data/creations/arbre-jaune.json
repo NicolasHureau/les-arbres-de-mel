@@ -1,16 +1,15 @@
 {
-  "slug": "arbre-jaune",
-  "title": "Arbre d'automne",
-  "description": "Perles et pierres jaune, orange et rose",
-  "price": 45,
-  "status": "available",
-  "canOrder": true,
+  "price": 25,
+  "slug": "diam 10- perles de verre",
   "featured": true,
-  "image": "/images/creations/PARJCext.webp",
+  "status": "available",
+  "title": "Arbre de vie ",
   "images": [
-    "/images/creations/PARJCext.webp",
     "/images/creations/PARJCext.webp",
     "/images/creations/PARJCext.webp"
   ],
-  "category": "Arbres"
+  "image": "/images/creations/PARJCext.webp",
+  "description": "Perles de verre jaune et rose",
+  "category": "Arbres",
+  "canOrder": true
 }
