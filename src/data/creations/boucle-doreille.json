@@ -1,6 +1,6 @@
 {
-  "price": 20,
-  "slug": "boucle-doreille",
+  "price": 28,
+  "slug": "BOmultipierres",
   "featured": false,
   "status": "available",
   "title": "Boucle d'oreille",
@@ -8,7 +8,7 @@
     "/images/creations/mapremierepairedeboucledoreille.jpeg",
     "/images/creations/mapremierepairedeboucledoreille.jpeg"
   ],
-  "description": "blabla",
+  "description": "Arbre de vie tissé mains en acier inoxydable et chip's de pierres semi-précieuses (améthyste, quartz rose, citrine, jade et ambre)",
   "category": "Bijoux",
   "canOrder": true
 }
