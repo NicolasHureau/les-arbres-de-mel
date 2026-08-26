@@ -1,32 +1,8 @@
 {
-  "name": "Les Arbres de Mél",
-  "logo": "",
-  "tagline": "Créations artisanales uniques façonnées à la main",
-  "description": "Des pièces uniques ou personnalisables, réalisées avec passion et savoir-faire artisanal.",
-
-  "email": "lesarbresdemel@gmail.com",
-
-  "location": "Annecy",
-
   "socials": {
     "instagram": "",
     "facebook": ""
   },
-
-  "partners": [
-    {
-      "name": "La Grande Louve",
-      "url": "https://share.google/K6mNaEbZg8rrJ1tSt",
-      "description": "Boutique de créateurs où retrouver les créations de Mélanie."
-    }
-  ],
-
-  "about": {
-    "title": "L'artiste",
-    "text": "...",
-    "photo": "/images/about/melanie.webp"
-  },
-
   "workshop": {
     "title": "Mon atelier",
     "text": "...",
@@ -37,5 +13,23 @@
       "/images/workshop/atelier-4.webp",
       "/images/workshop/atelier-5.webp"
     ]
-  }
+  },
+  "partners": [
+    {
+      "name": "La Grande Louve",
+      "url": "https://share.google/K6mNaEbZg8rrJ1tSt",
+      "description": "Boutique de créateurs où retrouver les créations de Mélanie."
+    }
+  ],
+  "logo": "",
+  "name": "Les Arbres de Mél",
+  "about": {
+    "title": "L'artiste",
+    "text": "...",
+    "photo": "/images/about/melanie.webp"
+  },
+  "tagline": "Créations artisanales uniques façonnées à la main",
+  "location": "CRESSIN ROCHEFORT",
+  "email": "lesarbresdemel@gmail.com",
+  "description": "Des pièces uniques ou personnalisables, réalisées avec passion et savoir-faire artisanal. Bijoux classiques et bijoux de maison (en pierres semi-précieuses) et de jardin (en perles de verre)."
 }
