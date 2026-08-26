@@ -1,0 +1,13 @@
+{
+  "price": 26,
+  "slug": "BO turquoises doré",
+  "featured": false,
+  "status": "available",
+  "title": "Boucles d'oreilles ",
+  "images": [
+    "/images/creations/boucles-d-oreille-turquoises.jpg"
+  ],
+  "description": "arbre de vie tissé main en acier inoxydable, turquoise",
+  "category": "bijoux",
+  "canOrder": true
+}
