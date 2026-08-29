@@ -1,9 +1,12 @@
 {
   "price": 12,
-  "slug": "arbre-violet",
+  "slug": "arbre or",
   "featured": false,
-  "status": "sold",
+  "status": "available",
   "title": "Arbre de vie",
+  "images": [
+    "/images/creations/20260605_164939.webp"
+  ],
   "image": "/images/creations/PAVioletCext.webp",
   "description": "Perles et pierres violette, mauve et rose",
   "category": "arbres",
