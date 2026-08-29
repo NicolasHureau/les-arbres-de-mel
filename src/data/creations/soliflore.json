@@ -1,13 +1,13 @@
 {
   "price": 18,
-  "slug": "soliflore",
+  "slug": "BJSoli",
   "featured": false,
   "status": "available",
   "title": "Soliflore",
   "images": [
     "/images/creations/soliflor.webp"
   ],
-  "description": "blabla",
+  "description": "Vase en verre soutenu par un fil de cuivre pouvant servir de soliflore ou de station de bouturage à accrocher au pot de la plante mère.",
   "category": "Jardin",
   "canOrder": true
 }
