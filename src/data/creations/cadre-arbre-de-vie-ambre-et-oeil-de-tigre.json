@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "slug": "Cadre1",
+  "featured": false,
+  "status": "sold",
+  "title": "Cadre arbre de vie ambre et oeil de tigre",
+  "images": [
+    "/images/creations/20260628_025920.webp"
+  ],
+  "description": "Cadre lumineux avec arbre de vie en cuivre, ambre et oeil de tigre.",
+  "category": "arbres",
+  "canOrder": false
+}
