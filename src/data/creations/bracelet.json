@@ -1,0 +1,13 @@
+{
+  "price": 15,
+  "slug": "BRAC-Zenamour26",
+  "featured": false,
+  "status": "sold",
+  "title": "Bracelet",
+  "images": [
+    "/images/creations/20260225_174218.webp"
+  ],
+  "description": "Bracelet en quartz rose et vert.",
+  "category": "bijoux",
+  "canOrder": true
+}
