@@ -1,0 +1,13 @@
+{
+  "price": 60,
+  "slug": "ARVSPierre1",
+  "featured": true,
+  "status": "sold",
+  "title": "Arbre de vie sur quartz vert",
+  "images": [
+    "/images/creations/20260323_061215.webp"
+  ],
+  "description": "Arbre de vie en jade et perles de verre sur quartz vert.\n",
+  "category": "arbres",
+  "canOrder": true
+}
