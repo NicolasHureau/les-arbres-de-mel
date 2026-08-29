@@ -1,0 +1,13 @@
+{
+  "price": 15,
+  "slug": "LibelluleNono",
+  "featured": false,
+  "status": "sold",
+  "title": "Suspension libellule ",
+  "images": [
+    "/images/creations/20260828_193651.webp"
+  ],
+  "description": "Libellule en cuivre et perles de verre, ailes colorées avec résine epoxy. Taille 10/12 cm.",
+  "category": "jardins",
+  "canOrder": true
+}
