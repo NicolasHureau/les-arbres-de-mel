@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "slug": "AV-Betty",
+  "featured": false,
+  "status": "sold",
+  "title": "Arbre de vie en quartz rose",
+  "images": [
+    "/images/creations/20251214_115305.webp"
+  ],
+  "description": "Arbre de vie en quartz rose et perles de verre sur bloc de quartz rose. Peut-être vendu avec socle en bois lumineux.",
+  "category": "arbres",
+  "canOrder": true
+}
