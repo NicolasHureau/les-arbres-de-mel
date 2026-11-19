@@ -1,15 +1,15 @@
 {
-  "price": 12,
   "slug": "diam10-perlesdeverre",
-  "featured": false,
-  "status": "available",
   "title": "Arbre de vie ",
+  "description": "Perles de verre jaune et rose",
+  "price": 12,
+  "status": "sold",
+  "canOrder": false,
+  "featured": false,
   "images": [
     "/images/creations/PARJCext.webp",
     "/images/creations/PARJCext.webp"
   ],
-  "image": "/images/creations/PARJCext.webp",
-  "description": "Perles de verre jaune et rose",
   "category": "Arbres",
-  "canOrder": false
+  "image": "/images/creations/PARJCext.webp"
 }
