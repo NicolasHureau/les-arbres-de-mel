@@ -1,0 +1,13 @@
+{
+  "slug": "Boite cadeau",
+  "title": "Boite cadeau",
+  "description": "Boîte à chapeau noire à paillettes dorées",
+  "price": 20,
+  "status": "sold",
+  "canOrder": true,
+  "featured": true,
+  "images": [
+    "/images/creations/20241218_134517.webp"
+  ],
+  "category": "autres"
+}
