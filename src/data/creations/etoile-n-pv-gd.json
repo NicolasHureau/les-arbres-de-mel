@@ -1,0 +1,15 @@
+{
+  "slug": "Décorations de noël",
+  "title": "Etoile N-PV-GD",
+  "description": "étoiles de Noël en perles de verre à suspendre",
+  "price": 8,
+  "status": "available",
+  "canOrder": true,
+  "featured": false,
+  "images": [
+    "/images/creations/etoile-de-noël-pv-gd-rouge.webp",
+    "/images/creations/etoile-de-noël-pv-gd-verte.webp",
+    "/images/creations/etoile-de-noël-pv-gd-rouge-orange.webp"
+  ],
+  "category": "autres"
+}
