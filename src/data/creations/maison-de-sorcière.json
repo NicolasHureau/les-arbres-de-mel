@@ -1,0 +1,15 @@
+{
+  "slug": "Maison de sorcière",
+  "title": "Maison de sorcière",
+  "description": "Maison de sorcière illuminée en carton et pâte auto-durcissante, peinte à la main (acrylique).",
+  "price": 70,
+  "status": "available",
+  "canOrder": true,
+  "featured": false,
+  "images": [
+    "/images/creations/maison-de-sorcière.webp",
+    "/images/creations/maison-de-sorcière-illuminée.webp",
+    "/images/creations/20240702_121621.webp"
+  ],
+  "category": "autres"
+}
