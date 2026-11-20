@@ -1,0 +1,13 @@
+{
+  "slug": "Boite cadeau",
+  "title": "Boite à cadeau",
+  "description": "Coffret rectangulaire noir à paillette, arbre de vie en suspension à l'intérieur.",
+  "price": 10,
+  "status": "sold",
+  "canOrder": true,
+  "featured": false,
+  "images": [
+    "/images/creations/20260515_184132.webp"
+  ],
+  "category": "autres"
+}
