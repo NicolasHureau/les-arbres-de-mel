@@ -1,0 +1,14 @@
+{
+  "slug": "Sapin de Noël",
+  "title": "Sapin de Noël",
+  "description": "Sapin de Noël en acier inoxydable et perles de verre",
+  "price": 20,
+  "status": "available",
+  "canOrder": true,
+  "featured": false,
+  "images": [
+    "/images/creations/20251202_145458.webp",
+    "/images/creations/20251121_182706.webp"
+  ],
+  "category": "arbres"
+}
