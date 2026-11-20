@@ -1,0 +1,14 @@
+{
+  "slug": "coffret cadeau",
+  "title": "coffret cadeau arbre de vie",
+  "description": "Coffret cadeau + carte explicative",
+  "price": 10,
+  "status": "sold",
+  "canOrder": true,
+  "featured": false,
+  "images": [
+    "/images/creations/arbre-de-vie-agathe-coffret-1.webp",
+    "/images/creations/arbre-de-vie-agathe-coffret-2.webp"
+  ],
+  "category": "autres"
+}
