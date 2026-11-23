@@ -1,0 +1,15 @@
+{
+  "slug": "PC-diam10-2D-PV",
+  "title": "Porte-clé en perles de verre",
+  "description": "Porte-clé en perles de verre, différents coloris, diamètre 10 cm",
+  "price": 12,
+  "status": "available",
+  "canOrder": true,
+  "featured": false,
+  "images": [
+    "/images/creations/etoile-de-noel-vert-clair-et-ivoire-gd.jpg",
+    "/images/creations/porte-clé-rouge-et-doré.jpg",
+    "/images/creations/porte-clé-cuivre-et-orange.jpg"
+  ],
+  "category": "autres"
+}
