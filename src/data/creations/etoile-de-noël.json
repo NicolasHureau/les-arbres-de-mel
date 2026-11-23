@@ -5,7 +5,7 @@
   "price": 6,
   "status": "available",
   "canOrder": true,
-  "featured": false,
+  "featured": true,
   "images": [
     "/images/creations/etoile-de-noël-pv-pt-rouge-orange.webp",
     "/images/creations/etoile-de-noel-rouge-et-doré-pt.jpg"
