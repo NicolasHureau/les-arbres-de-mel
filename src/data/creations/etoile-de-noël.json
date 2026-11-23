@@ -1,13 +1,14 @@
 {
   "slug": "Etoile N Pv-PT",
-  "title": "Etoile de Noël",
+  "title": "Etoile de Noël petite",
   "description": "Etoile de Noël en perles de verre à suspendre (9 cm)",
   "price": 6,
   "status": "available",
   "canOrder": true,
   "featured": false,
   "images": [
-    "/images/creations/etoile-de-noël-pv-pt-rouge-orange.webp"
+    "/images/creations/etoile-de-noël-pv-pt-rouge-orange.webp",
+    "/images/creations/etoile-de-noel-rouge-et-doré-pt.jpg"
   ],
   "category": "autres"
 }
