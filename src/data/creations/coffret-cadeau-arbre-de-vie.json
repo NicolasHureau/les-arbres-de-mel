@@ -5,7 +5,7 @@
   "price": 10,
   "status": "sold",
   "canOrder": true,
-  "featured": false,
+  "featured": true,
   "images": [
     "/images/creations/arbre-de-vie-agathe-coffret-1.webp",
     "/images/creations/arbre-de-vie-agathe-coffret-2.webp"
