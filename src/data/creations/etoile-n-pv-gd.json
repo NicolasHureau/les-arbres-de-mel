@@ -1,6 +1,6 @@
 {
   "slug": "Etoile N-PV-GD",
-  "title": "Etoile de Noël",
+  "title": "Etoile de Noël grande",
   "description": "étoiles de Noël en perles de verre à suspendre (12 cm)",
   "price": 8,
   "status": "available",
@@ -9,7 +9,12 @@
   "images": [
     "/images/creations/etoile-de-noël-pv-gd-rouge.webp",
     "/images/creations/etoile-de-noël-pv-gd-verte.webp",
-    "/images/creations/etoile-de-noël-pv-gd-rouge-orange.webp"
+    "/images/creations/etoile-de-noël-pv-gd-rouge-orange.webp",
+    "/images/creations/etoile-de-noel-vert-clair-et-ivoire-gd.jpg",
+    "/images/creations/etoile-de-noel-orientale-gd.jpg",
+    "/images/creations/etoile-de-noel-vert-rouge-et-doré.jpg",
+    "/images/creations/etoile-de-noel-bleu-givré-gd.jpg",
+    "/images/creations/etoile-de-noel-bleu-clair-et-foncé-gd.jpg"
   ],
   "category": "autres"
 }
