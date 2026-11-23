@@ -7,9 +7,17 @@
   "canOrder": true,
   "featured": false,
   "images": [
-    "/images/creations/etoile-de-noel-vert-clair-et-ivoire-gd.jpg",
     "/images/creations/porte-clé-rouge-et-doré.jpg",
-    "/images/creations/porte-clé-cuivre-et-orange.jpg"
+    "/images/creations/porte-clé-cuivre-et-orange.jpg",
+    "/images/creations/porte-clé-bleu-ciel-et-bleu-marine.jpg",
+    "/images/creations/porte-clé-bleu-ciel-et-doré.jpg",
+    "/images/creations/porte-clé-noir-et-argent.jpg",
+    "/images/creations/porte-clé-noir-et-doré.jpg",
+    "/images/creations/porte-clé-rose-et-doré.jpg",
+    "/images/creations/porte-clé-rouge-et-noir.jpg",
+    "/images/creations/porte-clé-rouge-et-vert.jpg",
+    "/images/creations/porte-clé-vert-et-rose.jpg",
+    "/images/creations/porte-clé-violet-et-doré.jpg"
   ],
   "category": "autres"
 }
